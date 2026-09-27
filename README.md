@@ -1,6 +1,6 @@
 # 🍽️  Mess Meal Booking System
 
-A modern full-stack web application designed to simplify **college mess meal booking and management**. Students can book meals, view menus, track expenses, skip meals, submit complaints, and provide reviews, while managers can monitor mess operations through a dedicated dashboard.
+A modern full-stack web application designed to simplify **Hostel mess meal booking and management**. Students can book meals, view menus, track expenses, skip meals, submit complaints, and provide reviews, while managers can monitor mess operations through a dedicated dashboard.
 
 ## 🚀 Features
 
