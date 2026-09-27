@@ -1,4 +1,4 @@
-# mess-booking
+# mess-management-system
 College Mess Meal Booking System
 A modern, full-stack web application for managing college mess meal bookings with an interactive UI.
 
